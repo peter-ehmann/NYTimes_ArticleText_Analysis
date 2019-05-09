@@ -7,3 +7,5 @@ Contains Jupyter notebook (Python) for:
 2. Functions to run app [24-32]
 
 3. Run the app [33] ... type "run_app()"
+
+Requires installation of PySpark into same folder as .ipynb file (code for pip install provided).
